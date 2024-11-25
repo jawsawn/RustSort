@@ -145,7 +145,7 @@ macro_rules! time_sort {
     }};
 }
 //rewrite merge and quicksort
-//add averages
+//add averages 2
 
 //test if copying the array before effects time
 // macro_rules! test_time_sort {
